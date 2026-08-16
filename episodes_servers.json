@@ -1,0 +1,3673 @@
+{
+    "success": true,
+    "total_episodes": 65,
+    "anime_count": 9,
+    "exported_at": "2026-08-16 18:44:55",
+    "data": [
+        {
+            "episode_id": "99",
+            "anime_name": "Black Torch",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-15 21:21:13",
+            "servers": [
+                {
+                    "server_id": "938",
+                    "url": "https:\/\/share4max.com\/iframe\/jgIYw9elMzkHi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "939",
+                    "url": "https:\/\/videa.hu\/player?v=X79uBEj7qCLuolIl",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "940",
+                    "url": "https:\/\/voe.sx\/e\/g1rz8hqpmcfj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "941",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240105&hash=342a151389d8ae03&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "942",
+                    "url": "https:\/\/uqload.is\/e\/o7ktcqzr0oij",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "943",
+                    "url": "https:\/\/playmogo.com\/e\/sdc9wdsiijc6",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "944",
+                    "url": "https:\/\/mp4upload.com\/embed-yh069jloswpr.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "945",
+                    "url": "https:\/\/rubyvidhub.com\/embed-aqn90j6dd4iu.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "946",
+                    "url": "https:\/\/mp4upload.com\/embed-xh6mq8qaz9c3.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "947",
+                    "url": "https:\/\/mp4upload.com\/embed-zz6n8gktzfv2.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "98",
+            "anime_name": "Black Torch",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-15 21:21:12",
+            "servers": [
+                {
+                    "server_id": "928",
+                    "url": "https:\/\/share4max.com\/iframe\/uWrMpWkiMK3zL",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "929",
+                    "url": "https:\/\/videa.hu\/player?v=n7fbarekSrzPBAJ9",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "930",
+                    "url": "https:\/\/voe.sx\/e\/nxxx5indsp5s",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "931",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240840&hash=ec5d5e57139e871c&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "932",
+                    "url": "https:\/\/uqload.is\/e\/vqy0wh1wbvsj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "933",
+                    "url": "https:\/\/playmogo.com\/e\/u4cxbrcahy8g",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "934",
+                    "url": "https:\/\/mp4upload.com\/embed-5xvuhep6alqn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "935",
+                    "url": "https:\/\/rubyvidhub.com\/embed-3mpskj9gaiu2.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "936",
+                    "url": "https:\/\/mp4upload.com\/embed-1sssggjsnd5y.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "937",
+                    "url": "https:\/\/mp4upload.com\/embed-6jf46qkvb4b1.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "97",
+            "anime_name": "Black Torch",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-15 21:21:08",
+            "servers": [
+                {
+                    "server_id": "919",
+                    "url": "https:\/\/share4max.com\/iframe\/N6SNIXV4sJH6A",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "920",
+                    "url": "https:\/\/videa.hu\/player?v=SpUFitSqf9TEVRFL",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "921",
+                    "url": "https:\/\/voe.sx\/e\/gloywgxcdsru",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "922",
+                    "url": "https:\/\/playmogo.com\/e\/u6uaw8lssoft",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "923",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240184&hash=3961a531f43045dc&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "924",
+                    "url": "https:\/\/mp4upload.com\/embed-obypfvdwgqvx.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "925",
+                    "url": "https:\/\/rubyvidhub.com\/embed-jja565mn6hvp.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "926",
+                    "url": "https:\/\/mp4upload.com\/embed-lnn6cmy8l5rf.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "927",
+                    "url": "https:\/\/mp4upload.com\/embed-1rg9q0ka0pcd.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "96",
+            "anime_name": "Black Torch",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-15 21:21:04",
+            "servers": [
+                {
+                    "server_id": "909",
+                    "url": "https:\/\/share4max.com\/iframe\/hy6yaWKjUzKI1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "910",
+                    "url": "https:\/\/videa.hu\/player?v=nRZDajrOFTYs6b8W",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "911",
+                    "url": "https:\/\/voe.sx\/e\/8jy0oy5xne0q",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "912",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240259&hash=259ac1260da1d85a&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "913",
+                    "url": "https:\/\/uqload.is\/e\/44lakaai0boy",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "914",
+                    "url": "https:\/\/playmogo.com\/e\/aoqfoltb4qxi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "915",
+                    "url": "https:\/\/mp4upload.com\/embed-de58whj67b9n.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "916",
+                    "url": "https:\/\/rubyvidhub.com\/embed-6tyhh0kyagfp.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "917",
+                    "url": "https:\/\/mp4upload.com\/embed-9rgbjs9rx5h6.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "918",
+                    "url": "https:\/\/mp4upload.com\/embed-uqwn4yfvk2l4.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "95",
+            "anime_name": "Black Torch",
+            "episode_number": "الحلقة 5",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-15 21:20:58",
+            "servers": [
+                {
+                    "server_id": "897",
+                    "url": "https:\/\/share4max.com\/iframe\/IWGoIeeBGCbUY",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "898",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/61169\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "899",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/61169\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "900",
+                    "url": "https:\/\/videa.hu\/player?v=C6yYNpC0EpMUncle",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "901",
+                    "url": "https:\/\/voe.sx\/e\/q6ode6rdpfkg",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "902",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240335&hash=1314868769c04e3b&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "903",
+                    "url": "https:\/\/uqload.is\/e\/pcvbffktbkww",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "904",
+                    "url": "https:\/\/playmogo.com\/e\/9quf3q9fai8m",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "905",
+                    "url": "https:\/\/mp4upload.com\/embed-6trlxav6efy7.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "906",
+                    "url": "https:\/\/rubyvidhub.com\/embed-dxr828qnomgh.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "907",
+                    "url": "https:\/\/mp4upload.com\/embed-vg64kdwbxj2r.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "908",
+                    "url": "https:\/\/mp4upload.com\/embed-0a5fxxub3rus.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "94",
+            "anime_name": "Black Torch",
+            "episode_number": "الحلقة 6",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-15 21:20:55",
+            "servers": [
+                {
+                    "server_id": "885",
+                    "url": "https:\/\/share4max.com\/iframe\/Bg3X3MsqFGiSz",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "886",
+                    "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S1\/mal\/61169\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "887",
+                    "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S2\/mal\/61169\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "888",
+                    "url": "https:\/\/videa.hu\/player?v=vtgqAWCn0ir3yl8R",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "889",
+                    "url": "https:\/\/voe.sx\/e\/12hbx5slvv9s",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "890",
+                    "url": "https:\/\/uqload.is\/e\/d\/sdam6zum7nmq",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "891",
+                    "url": "https:\/\/playmogo.com\/e\/riwpkli6c6sx",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "892",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240869&hash=52a3829cb8d34147&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "893",
+                    "url": "https:\/\/mp4upload.com\/embed-7l18e8tkplyc.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "894",
+                    "url": "https:\/\/rubyvidhub.com\/embed-v6hmfeevfjlm.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "895",
+                    "url": "https:\/\/mp4upload.com\/embed-rvst361xb9wl.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "896",
+                    "url": "https:\/\/mp4upload.com\/embed-v5cjbigzixcr.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "93",
+            "anime_name": "Black Torch",
+            "episode_number": "الحلقة 7",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-15 21:20:52",
+            "servers": [
+                {
+                    "server_id": "875",
+                    "url": "https:\/\/share4max.com\/iframe\/u8Cx0gzQZrXGm",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "876",
+                    "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S1\/mal\/61169\/7\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "877",
+                    "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S2\/mal\/61169\/7\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "878",
+                    "url": "https:\/\/voe.sx\/e\/8i13nhlagyvn",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "879",
+                    "url": "https:\/\/uqload.is\/e\/d\/f7d4kdkat1ol",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "880",
+                    "url": "https:\/\/playmogo.com\/e\/6y9gbi6wp8nk",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "881",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240474&hash=a6a01644e7ee686c&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "882",
+                    "url": "https:\/\/mp4upload.com\/embed-ms9hdkbdmwqy.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "883",
+                    "url": "https:\/\/mp4upload.com\/embed-5a1t89nod2e7.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "884",
+                    "url": "https:\/\/mp4upload.com\/embed-84s5q03hcmrs.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "103",
+            "anime_name": "Bleach: Sennen Kessen-hen - Kashin-tan",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:57:13",
+            "servers": [
+                {
+                    "server_id": "975",
+                    "url": "https:\/\/share4max.com\/iframe\/I2AJvNHSsLYFg",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "976",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/60636\/1\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "977",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/60636\/1\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "978",
+                    "url": "https:\/\/videa.hu\/player?v=dJy4VbIntQ2AryZq",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "979",
+                    "url": "https:\/\/voe.sx\/e\/7rh1xpyhkwfw",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "980",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240277&hash=241077f83009c17e&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "981",
+                    "url": "https:\/\/playmogo.com\/e\/uk87apurt3t7",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "982",
+                    "url": "https:\/\/mp4upload.com\/embed-9v5sjdkcrq8t.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "983",
+                    "url": "https:\/\/rubyvidhub.com\/embed-uymhb4gohs39.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "984",
+                    "url": "https:\/\/mp4upload.com\/embed-mds6nk3x1cj0.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "102",
+            "anime_name": "Bleach: Sennen Kessen-hen - Kashin-tan",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:57:11",
+            "servers": [
+                {
+                    "server_id": "965",
+                    "url": "https:\/\/share4max.com\/iframe\/nItdJXRT9OmdQ",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "966",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/60636\/2\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "967",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/60636\/2\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "968",
+                    "url": "https:\/\/voe.sx\/e\/ms4gfkkulftj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "969",
+                    "url": "https:\/\/uqload.is\/e\/5xlfb603aqgl",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "970",
+                    "url": "https:\/\/playmogo.com\/e\/ekghs5haivf2",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "971",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240338&hash=df37fee7f150f2c9&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "972",
+                    "url": "https:\/\/mp4upload.com\/embed-lukm0ldq1lvw.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "973",
+                    "url": "https:\/\/rubyvidhub.com\/embed-rjxlud5cpk50.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "974",
+                    "url": "https:\/\/mp4upload.com\/embed-ukcovi3kdze7.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "101",
+            "anime_name": "Bleach: Sennen Kessen-hen - Kashin-tan",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:57:10",
+            "servers": [
+                {
+                    "server_id": "955",
+                    "url": "https:\/\/share4max.com\/iframe\/a0EbLGFkyspuU",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "956",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/60636\/3\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "957",
+                    "url": "https:\/\/videa.hu\/player?v=mQzdeC2Kkl8oC39C",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "958",
+                    "url": "https:\/\/voe.sx\/e\/ff7ra5fosjkr",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "959",
+                    "url": "https:\/\/uqload.is\/e\/ildd8lb4gfpe",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "960",
+                    "url": "https:\/\/playmogo.com\/e\/1yfe495glnjl",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "961",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240868&hash=344f3210cbb83ae7&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "962",
+                    "url": "https:\/\/mp4upload.com\/embed-ots2gh0ynj79.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "963",
+                    "url": "https:\/\/rubyvidhub.com\/embed-4pr51u1h0a1s.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "964",
+                    "url": "https:\/\/mp4upload.com\/embed-teu75kbej9he.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "100",
+            "anime_name": "Bleach: Sennen Kessen-hen - Kashin-tan",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:57:08",
+            "servers": [
+                {
+                    "server_id": "948",
+                    "url": "https:\/\/share4max.com\/iframe\/4lhFZFY0QW0tF",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "949",
+                    "url": "https:\/\/voe.sx\/e\/o5ws5fngmtzu",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "950",
+                    "url": "https:\/\/uqload.is\/e\/uk512eqyglg3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "951",
+                    "url": "https:\/\/playmogo.com\/e\/ytrokgmcv7hy",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "952",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240476&hash=de26b32f4d06f79f&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "953",
+                    "url": "https:\/\/mp4upload.com\/embed-c3jsoyccp23l.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "954",
+                    "url": "https:\/\/mp4upload.com\/embed-2k8ibgdh80jp.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "109",
+            "anime_name": "Dogulwang: Tomb Raider King",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:58:54",
+            "servers": [
+                {
+                    "server_id": "1037",
+                    "url": "https:\/\/share4max.com\/iframe\/quM4u69JOgdQi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1038",
+                    "url": "https:\/\/videa.hu\/player?v=mFeyFKkmsFDgwkVR",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1039",
+                    "url": "https:\/\/voe.sx\/e\/wm6n19iaka51",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1040",
+                    "url": "https:\/\/playmogo.com\/e\/6571o26tgxtc",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1041",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240139&hash=8c4b0016fe49f895&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1042",
+                    "url": "https:\/\/mp4upload.com\/embed-g1oo16sjkbo5.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1043",
+                    "url": "https:\/\/rubyvidhub.com\/embed-bt73v1czg6pf.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1044",
+                    "url": "https:\/\/mp4upload.com\/embed-nqvsdx0ppflm.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1045",
+                    "url": "https:\/\/mp4upload.com\/embed-1u2zpzzh13fp.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "108",
+            "anime_name": "Dogulwang: Tomb Raider King",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:58:52",
+            "servers": [
+                {
+                    "server_id": "1028",
+                    "url": "https:\/\/share4max.com\/iframe\/t3QoSFh4KTbJp",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1029",
+                    "url": "https:\/\/videa.hu\/player?v=YiUPWtqhzQfgx1WQ",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1030",
+                    "url": "https:\/\/voe.sx\/e\/ewwgsrtykvpw",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1031",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240160&hash=3b90148655901b53&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1032",
+                    "url": "https:\/\/playmogo.com\/e\/hg3m378lmnjs",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1033",
+                    "url": "https:\/\/mp4upload.com\/embed-xk3s7xaclyw0.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1034",
+                    "url": "https:\/\/rubyvidhub.com\/embed-s5usmiiacad0.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1035",
+                    "url": "https:\/\/mp4upload.com\/embed-hgxxvk4mlk9u.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1036",
+                    "url": "https:\/\/mp4upload.com\/embed-dpgfm21pi7v1.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "107",
+            "anime_name": "Dogulwang: Tomb Raider King",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:58:51",
+            "servers": [
+                {
+                    "server_id": "1018",
+                    "url": "https:\/\/share4max.com\/iframe\/R7YjrFgs3CH1H",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1019",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/63316\/3\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1020",
+                    "url": "https:\/\/videa.hu\/player?v=XNHFcLmot0FjhnQy",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1021",
+                    "url": "https:\/\/voe.sx\/e\/kanuhiilyliy",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1022",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240235&hash=b9e4bd99d385f30d&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1023",
+                    "url": "https:\/\/playmogo.com\/e\/zety8u0a795p",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1024",
+                    "url": "https:\/\/mp4upload.com\/embed-trzp54ffo97v.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1025",
+                    "url": "https:\/\/rubyvidhub.com\/embed-fpqccybqdqqn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1026",
+                    "url": "https:\/\/mp4upload.com\/embed-ewmyf1j1wwe1.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1027",
+                    "url": "https:\/\/mp4upload.com\/embed-e8l2dmfk6wwd.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "106",
+            "anime_name": "Dogulwang: Tomb Raider King",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:58:49",
+            "servers": [
+                {
+                    "server_id": "1008",
+                    "url": "https:\/\/share4max.com\/iframe\/mFKbEeb7O7Xar",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1009",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/63316\/4\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1010",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/63316\/4\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1011",
+                    "url": "https:\/\/voe.sx\/e\/atqrv6ysvusa",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1012",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240314&hash=1f48af69bad3f36f&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1013",
+                    "url": "https:\/\/playmogo.com\/e\/6qiuajoyy55k",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1014",
+                    "url": "https:\/\/mp4upload.com\/embed-e5xg8wufyxjx.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1015",
+                    "url": "https:\/\/rubyvidhub.com\/embed-tlo4klnbvx4g.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1016",
+                    "url": "https:\/\/mp4upload.com\/embed-xbak7dcc7ns3.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1017",
+                    "url": "https:\/\/mp4upload.com\/embed-o99yx25v7oqs.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "105",
+            "anime_name": "Dogulwang: Tomb Raider King",
+            "episode_number": "الحلقة 5",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:58:48",
+            "servers": [
+                {
+                    "server_id": "996",
+                    "url": "https:\/\/share4max.com\/iframe\/eoNKGwDF9weww",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "997",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/63316\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "998",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/63316\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "999",
+                    "url": "https:\/\/videa.hu\/player?v=ezcBY8J9poHeIaAC",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1000",
+                    "url": "https:\/\/voe.sx\/e\/b9hbk8ido6rb",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1001",
+                    "url": "https:\/\/playmogo.com\/e\/ynm3oiahfq5k",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1002",
+                    "url": "https:\/\/uqload.is\/e\/dnvtq59mgd6s",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1003",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240389&hash=cfc9ded663f78ac3&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1004",
+                    "url": "https:\/\/mp4upload.com\/embed-94qkuzt5anuq.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1005",
+                    "url": "https:\/\/rubyvidhub.com\/embed-gmqxg0n55ex3.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1006",
+                    "url": "https:\/\/mp4upload.com\/embed-g1ag2u65r5i6.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1007",
+                    "url": "https:\/\/mp4upload.com\/embed-4jjt990lvq8h.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "104",
+            "anime_name": "Dogulwang: Tomb Raider King",
+            "episode_number": "الحلقة 6",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 16:58:46",
+            "servers": [
+                {
+                    "server_id": "985",
+                    "url": "https:\/\/share4max.com\/iframe\/l35bb41N2vT8u",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "986",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/63316\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "987",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/63316\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "988",
+                    "url": "https:\/\/voe.sx\/e\/murulwupkatf",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "989",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240443&hash=f7be1132f1bcbcab&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "990",
+                    "url": "https:\/\/uqload.is\/e\/ginsp8agktmd",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "991",
+                    "url": "https:\/\/playmogo.com\/e\/d6ewg1fh740z",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "992",
+                    "url": "https:\/\/mp4upload.com\/embed-u1nh6jpmqxvi.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "993",
+                    "url": "https:\/\/rubyvidhub.com\/embed-35uz08kpa0jn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "994",
+                    "url": "https:\/\/mp4upload.com\/embed-lplzp7jxj03j.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "995",
+                    "url": "https:\/\/mp4upload.com\/embed-orrvc559vr66.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "143",
+            "anime_name": "Link Click Season 3 (Shiguang Dailiren III)",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-link-click-season-3-shiguang-dailiren-iii-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:05:30",
+            "servers": [
+                {
+                    "server_id": "1346",
+                    "url": "https:\/\/share4max.com\/iframe\/2UKMRaOsRf9nD",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1347",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/61607\/1\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1348",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/61607\/1\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1349",
+                    "url": "https:\/\/videa.hu\/player?v=VKtErdLWO3wc6I4k",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1350",
+                    "url": "https:\/\/voe.sx\/e\/7nrxrqjiep2u",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1351",
+                    "url": "https:\/\/playmogo.com\/e\/xo1yf614y74q",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1352",
+                    "url": "https:\/\/uqload.is\/e\/u869438wg1np",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1353",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240457&hash=5e17865b4a861cd7&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1354",
+                    "url": "https:\/\/mp4upload.com\/embed-kyqmxpu5nuv0.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1355",
+                    "url": "https:\/\/rubyvidhub.com\/embed-c87p4zi4sbgd.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1356",
+                    "url": "https:\/\/mp4upload.com\/embed-8dyeqd43q6vw.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1357",
+                    "url": "https:\/\/mp4upload.com\/embed-rx2aw1p80e8l.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "142",
+            "anime_name": "Link Click Season 3 (Shiguang Dailiren III)",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-link-click-season-3-shiguang-dailiren-iii-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:05:28",
+            "servers": [
+                {
+                    "server_id": "1334",
+                    "url": "https:\/\/share4max.com\/iframe\/MXiFV5X6G6Wm1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1335",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/61607\/2\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1336",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/61607\/2\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1337",
+                    "url": "https:\/\/videa.hu\/player?v=Dpssp5Co2226QZQ6",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1338",
+                    "url": "https:\/\/voe.sx\/e\/rbmupg7wt54b",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1339",
+                    "url": "https:\/\/playmogo.com\/e\/708nesajk4rw",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1340",
+                    "url": "https:\/\/uqload.is\/e\/yvc5i9z7qcu2",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1341",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240458&hash=bda48bdc1dc31fad&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1342",
+                    "url": "https:\/\/mp4upload.com\/embed-of71hg8y2t02.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1343",
+                    "url": "https:\/\/rubyvidhub.com\/embed-skko3vp7h5jb.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1344",
+                    "url": "https:\/\/mp4upload.com\/embed-d0q4ds96kj20.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1345",
+                    "url": "https:\/\/mp4upload.com\/embed-oyy325xyce8h.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "157",
+            "anime_name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:09:30",
+            "servers": [
+                {
+                    "server_id": "1484",
+                    "url": "https:\/\/share4max.com\/iframe\/bJDkFEtzOOlPL",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1485",
+                    "url": "https:\/\/videa.hu\/player?v=Wwqc1xsnJ1cPMfE0",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1486",
+                    "url": "https:\/\/voe.sx\/e\/8bletqbndwny",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1487",
+                    "url": "https:\/\/playmogo.com\/e\/bgqz7j8vm4k6",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1488",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240112&hash=fdfebc21cfd26fe3&hd=3&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1489",
+                    "url": "https:\/\/rubyvidhub.com\/embed-ab3d61pf7gmr.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1490",
+                    "url": "https:\/\/mp4upload.com\/embed-1upeqh6czgn8.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "156",
+            "anime_name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:09:29",
+            "servers": [
+                {
+                    "server_id": "1475",
+                    "url": "https:\/\/share4max.com\/iframe\/LgHOaR466vIIy",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1476",
+                    "url": "https:\/\/videa.hu\/player?v=mFx4jccKT0LlSN8Z",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1477",
+                    "url": "https:\/\/voe.sx\/e\/c1r1jwncc77o",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1478",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240848&hash=0227d340185ffd0a&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1479",
+                    "url": "https:\/\/playmogo.com\/e\/j09vmjkdgxkc",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1480",
+                    "url": "https:\/\/mp4upload.com\/embed-6ogfyg206d9m.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1481",
+                    "url": "https:\/\/rubyvidhub.com\/embed-pwrinmji573l.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1482",
+                    "url": "https:\/\/mp4upload.com\/embed-vvdfpm5y7601.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1483",
+                    "url": "https:\/\/mp4upload.com\/embed-gzke3okq3s2g.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "155",
+            "anime_name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:09:27",
+            "servers": [
+                {
+                    "server_id": "1466",
+                    "url": "https:\/\/share4max.com\/iframe\/JIfvBNVEmw9I5",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1467",
+                    "url": "https:\/\/videa.hu\/player?v=TYJpBg58uTtMDcsO",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1468",
+                    "url": "https:\/\/voe.sx\/e\/ejy0ss2dmxwk",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1469",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240190&hash=d45d8eb3a63df99c&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1470",
+                    "url": "https:\/\/playmogo.com\/e\/5l1o2q3ue1iq",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1471",
+                    "url": "https:\/\/mp4upload.com\/embed-ms05qi7m922q.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1472",
+                    "url": "https:\/\/rubyvidhub.com\/embed-psvrn7myw6qe.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1473",
+                    "url": "https:\/\/mp4upload.com\/embed-8g5prr2c820r.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1474",
+                    "url": "https:\/\/mp4upload.com\/embed-dr5td288m9si.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "154",
+            "anime_name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:09:25",
+            "servers": [
+                {
+                    "server_id": "1455",
+                    "url": "https:\/\/share4max.com\/iframe\/yHLRbxVR3Im7H",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1456",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/60637\/4\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1457",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/60637\/4\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1458",
+                    "url": "https:\/\/videa.hu\/player?v=zIa0BD7eVkLdSx3J",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1459",
+                    "url": "https:\/\/voe.sx\/e\/ptos3vazj7xe",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1460",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240266&hash=deaf686dca2c3048&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1461",
+                    "url": "https:\/\/playmogo.com\/e\/2tsnyh6vglxb",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1462",
+                    "url": "https:\/\/mp4upload.com\/embed-xjhsj38chyca.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1463",
+                    "url": "https:\/\/rubyvidhub.com\/embed-q9fjx0ktngd8.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1464",
+                    "url": "https:\/\/mp4upload.com\/embed-e5vii47k3qso.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1465",
+                    "url": "https:\/\/mp4upload.com\/embed-xg7pwyshrw1k.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "153",
+            "anime_name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "episode_number": "الحلقة 5",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:09:23",
+            "servers": [
+                {
+                    "server_id": "1445",
+                    "url": "https:\/\/share4max.com\/iframe\/MjnaLd0nmmDBb",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1446",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/60637\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1447",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/60637\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1448",
+                    "url": "https:\/\/voe.sx\/e\/llreogljikzg",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1449",
+                    "url": "https:\/\/playmogo.com\/e\/wghsbpkyed7n",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1450",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240342&hash=72120ecca3c0f951&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1451",
+                    "url": "https:\/\/mp4upload.com\/embed-zm0ooagxfax3.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1452",
+                    "url": "https:\/\/rubyvidhub.com\/embed-5ckb32i1qi0z.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1453",
+                    "url": "https:\/\/mp4upload.com\/embed-wsdsqa2ns8lq.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1454",
+                    "url": "https:\/\/mp4upload.com\/embed-3wrz01jngw1t.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "152",
+            "anime_name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "episode_number": "الحلقة 6",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:09:21",
+            "servers": [
+                {
+                    "server_id": "1433",
+                    "url": "https:\/\/share4max.com\/iframe\/veJFEFRk83keq",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1434",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/60637\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1435",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/60637\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1436",
+                    "url": "https:\/\/videa.hu\/player?v=NvSYkgUH41CsLCfJ",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1437",
+                    "url": "https:\/\/voe.sx\/e\/rmdutkqadocg",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1438",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240402&hash=c09433481168ac74&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1439",
+                    "url": "https:\/\/uqload.is\/d\/e\/78ffy58t69r1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1440",
+                    "url": "https:\/\/playmogo.com\/e\/v2fqjiukaa9s",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1441",
+                    "url": "https:\/\/mp4upload.com\/embed-28v6mwo4xr0h.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1442",
+                    "url": "https:\/\/rubyvidhub.com\/embed-80vksks73bqs.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1443",
+                    "url": "https:\/\/mp4upload.com\/embed-j8jph5da00ei.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1444",
+                    "url": "https:\/\/mp4upload.com\/embed-7t2keb9lxua5.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "151",
+            "anime_name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "episode_number": "الحلقة 7",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:09:19",
+            "servers": [
+                {
+                    "server_id": "1424",
+                    "url": "https:\/\/share4max.com\/iframe\/CKr2tvGbXOaUQ",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1425",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/60637\/7\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1426",
+                    "url": "https:\/\/voe.sx\/e\/kvsrnjs2vpaa",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1427",
+                    "url": "https:\/\/playmogo.com\/e\/ao97lv5yvx7h",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1428",
+                    "url": "https:\/\/uqload.is\/e\/w6fcphz9nhtk",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1429",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240481&hash=8d873b152817072a&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1430",
+                    "url": "https:\/\/mp4upload.com\/embed-7mgw2fnm2xn4.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1431",
+                    "url": "https:\/\/mp4upload.com\/embed-6eldyps3yfvn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1432",
+                    "url": "https:\/\/mp4upload.com\/embed-krdua8ls92gt.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "116",
+            "anime_name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-iii-isekai-ittara-honki-dasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:00:22",
+            "servers": [
+                {
+                    "server_id": "1106",
+                    "url": "https:\/\/share4max.com\/iframe\/ClKPPWdE0Talc",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1107",
+                    "url": "https:\/\/videa.hu\/player?v=oylEfkZmMlspzuE8",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1108",
+                    "url": "https:\/\/voe.sx\/e\/weltge9t1zv5",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1109",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240102&hash=f6cf88ffa72b4554&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1110",
+                    "url": "https:\/\/playmogo.com\/e\/kkprwzc3tcbd",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1111",
+                    "url": "https:\/\/mp4upload.com\/embed-pf7zfzvr8ogd.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1112",
+                    "url": "https:\/\/rubyvidhub.com\/embed-3ghxtpx84uvu.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1113",
+                    "url": "https:\/\/mp4upload.com\/embed-pf17tdihqk7m.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1114",
+                    "url": "https:\/\/mp4upload.com\/embed-w7a1gcv10nwu.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "115",
+            "anime_name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-iii-isekai-ittara-honki-dasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:00:20",
+            "servers": [
+                {
+                    "server_id": "1097",
+                    "url": "https:\/\/share4max.com\/iframe\/sjAsi8IVpXUOi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1098",
+                    "url": "https:\/\/videa.hu\/player?v=kL8QDWEjN40CGDCF",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1099",
+                    "url": "https:\/\/voe.sx\/e\/psuu8tuobaev",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1100",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240104&hash=1a9177734e2af422&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1101",
+                    "url": "https:\/\/playmogo.com\/e\/lh080ihfq98i",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1102",
+                    "url": "https:\/\/mp4upload.com\/embed-s7e5sr4godcb.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1103",
+                    "url": "https:\/\/rubyvidhub.com\/embed-cu3grk45xf8b.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1104",
+                    "url": "https:\/\/mp4upload.com\/embed-1j64xxwnhpci.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1105",
+                    "url": "https:\/\/mp4upload.com\/embed-3g84q2f8slrf.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "114",
+            "anime_name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-iii-isekai-ittara-honki-dasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:00:19",
+            "servers": [
+                {
+                    "server_id": "1090",
+                    "url": "https:\/\/share4max.com\/iframe\/sbj5GiBn4cSDi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1091",
+                    "url": "https:\/\/voe.sx\/e\/btxwfoisd4c9",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1092",
+                    "url": "https:\/\/playmogo.com\/e\/0dr0igrhykwk",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1093",
+                    "url": "https:\/\/mp4upload.com\/embed-od6potpls7ww.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1094",
+                    "url": "https:\/\/rubyvidhub.com\/embed-pfavivtunvyx.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1095",
+                    "url": "https:\/\/mp4upload.com\/embed-k2dvdewolso3.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1096",
+                    "url": "https:\/\/mp4upload.com\/embed-apvf1z7o6be0.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "113",
+            "anime_name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-iii-isekai-ittara-honki-dasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:00:18",
+            "servers": [
+                {
+                    "server_id": "1080",
+                    "url": "https:\/\/share4max.com\/iframe\/ElAozCcogPDWO",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1081",
+                    "url": "https:\/\/videa.hu\/player?v=MGep4uL9X2kkb0fr",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1082",
+                    "url": "https:\/\/voe.sx\/e\/dd6b44hjzcap",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1083",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240205&hash=6e7f841573d09c2c&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1084",
+                    "url": "https:\/\/uqload.is\/e\/1xizt1iz00uy",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1085",
+                    "url": "https:\/\/playmogo.com\/e\/x7h7bmh7a7z7",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1086",
+                    "url": "https:\/\/mp4upload.com\/embed-9yl25rginfrd.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1087",
+                    "url": "https:\/\/rubyvidhub.com\/embed-e19y4pr2p9yn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1088",
+                    "url": "https:\/\/mp4upload.com\/embed-jwdjmp59d2fs.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1089",
+                    "url": "https:\/\/mp4upload.com\/embed-2g00ty9doqae.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "112",
+            "anime_name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "episode_number": "الحلقة 5",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-iii-isekai-ittara-honki-dasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:00:16",
+            "servers": [
+                {
+                    "server_id": "1069",
+                    "url": "https:\/\/share4max.com\/iframe\/OVUEdbKoQSxgu",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1070",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/59193\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1071",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/59193\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1072",
+                    "url": "https:\/\/videa.hu\/player?v=jAOl8ldvNsmyp6aT",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1073",
+                    "url": "https:\/\/voe.sx\/e\/ro7p9xsryit1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1074",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240281&hash=a8299105b0e4a813&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1075",
+                    "url": "https:\/\/playmogo.com\/e\/74qhw0xoz8r8",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1076",
+                    "url": "https:\/\/mp4upload.com\/embed-3954zz2cngij.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1077",
+                    "url": "https:\/\/rubyvidhub.com\/embed-bxsssta7r9je.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1078",
+                    "url": "https:\/\/mp4upload.com\/embed-isqtk7p0761r.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1079",
+                    "url": "https:\/\/mp4upload.com\/embed-6o2aww2tlvtb.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "111",
+            "anime_name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "episode_number": "الحلقة 6",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-iii-isekai-ittara-honki-dasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:00:15",
+            "servers": [
+                {
+                    "server_id": "1058",
+                    "url": "https:\/\/share4max.com\/iframe\/1gHK3I5t13ZaG",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1059",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/59193\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1060",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/59193\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1061",
+                    "url": "https:\/\/videa.hu\/player?v=1GwjRoo1ztqaTPUj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1062",
+                    "url": "https:\/\/voe.sx\/e\/lsvskdzjymfn",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1063",
+                    "url": "https:\/\/uqload.is\/e\/d\/cxcpvwj0zu7w",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1064",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240353&hash=e8a05716a73016b2&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1065",
+                    "url": "https:\/\/mp4upload.com\/embed-rlhx40hg8clj.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1066",
+                    "url": "https:\/\/rubyvidhub.com\/embed-920ek10suupm.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1067",
+                    "url": "https:\/\/mp4upload.com\/embed-crc1d81zise1.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1068",
+                    "url": "https:\/\/mp4upload.com\/embed-y3xcecs86izq.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "110",
+            "anime_name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "episode_number": "الحلقة 7",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-mushoku-tensei-iii-isekai-ittara-honki-dasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:00:13",
+            "servers": [
+                {
+                    "server_id": "1046",
+                    "url": "https:\/\/share4max.com\/iframe\/rBCNi3JnhCrA2",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1047",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/59193\/7\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1048",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/59193\/7\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1049",
+                    "url": "https:\/\/videa.hu\/player?v=rp3jQeq7HvH6uoE0",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1050",
+                    "url": "https:\/\/voe.sx\/e\/awq7f7impxat",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1051",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240412&hash=274522bba1e0059d&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1052",
+                    "url": "https:\/\/uqload.is\/e\/quexv0zseg9r",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1053",
+                    "url": "https:\/\/playmogo.com\/e\/yvh7jwcfp3aj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1054",
+                    "url": "https:\/\/mp4upload.com\/embed-4f6bysdt7vow.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1055",
+                    "url": "https:\/\/rubyvidhub.com\/embed-babdwulmloyl.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1056",
+                    "url": "https:\/\/mp4upload.com\/embed-y00rvttsbc7l.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1057",
+                    "url": "https:\/\/mp4upload.com\/embed-9iqxw538mixw.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "122",
+            "anime_name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:02:33",
+            "servers": [
+                {
+                    "server_id": "1165",
+                    "url": "https:\/\/share4max.com\/iframe\/GveGEpYTmHOne",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1166",
+                    "url": "https:\/\/videa.hu\/player?v=mataNAeQ6Pdtpxm6",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1167",
+                    "url": "https:\/\/voe.sx\/e\/kbqwzj2bw7jp",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1168",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240124&hash=74de7e9237192ea6&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1169",
+                    "url": "https:\/\/playmogo.com\/e\/mzocfx6lyhes",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1170",
+                    "url": "https:\/\/mp4upload.com\/embed-f8fw8tvv8hjo.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1171",
+                    "url": "https:\/\/rubyvidhub.com\/embed-h6ixdlegd7vg.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1172",
+                    "url": "https:\/\/mp4upload.com\/embed-ax5yvi663b6j.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1173",
+                    "url": "https:\/\/mp4upload.com\/embed-ei1plw24dfhc.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "121",
+            "anime_name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:02:32",
+            "servers": [
+                {
+                    "server_id": "1158",
+                    "url": "https:\/\/share4max.com\/iframe\/R9LBQFIS6NxqL",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1159",
+                    "url": "https:\/\/voe.sx\/e\/binuznqtaeal",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1160",
+                    "url": "https:\/\/playmogo.com\/e\/2496st4fs387",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1161",
+                    "url": "https:\/\/mp4upload.com\/embed-zz862vkfqazn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1162",
+                    "url": "https:\/\/rubyvidhub.com\/embed-fiinhxvf7kds.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1163",
+                    "url": "https:\/\/mp4upload.com\/embed-59g7qpzcl44c.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1164",
+                    "url": "https:\/\/mp4upload.com\/embed-cb498mj2d10m.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "120",
+            "anime_name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:02:30",
+            "servers": [
+                {
+                    "server_id": "1149",
+                    "url": "https:\/\/share4max.com\/iframe\/5TFZUlqIwbnM3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1150",
+                    "url": "https:\/\/videa.hu\/player?v=5tyKHcSnXJyWKX1Q",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1151",
+                    "url": "https:\/\/voe.sx\/e\/5c4efkbgcuxp",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1152",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240209&hash=527613cadf2441ef&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1153",
+                    "url": "https:\/\/playmogo.com\/e\/obpuvjl2oizu",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1154",
+                    "url": "https:\/\/mp4upload.com\/embed-e3qw8i3kbdsw.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1155",
+                    "url": "https:\/\/rubyvidhub.com\/embed-8p0yml3t7pj9.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1156",
+                    "url": "https:\/\/mp4upload.com\/embed-bop9z0wg2khv.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1157",
+                    "url": "https:\/\/mp4upload.com\/embed-yskkeys1b7qr.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "119",
+            "anime_name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:02:29",
+            "servers": [
+                {
+                    "server_id": "1138",
+                    "url": "https:\/\/share4max.com\/iframe\/JfRXkL1aNVTZQ",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1139",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/62856\/4\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1140",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/62856\/4\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1141",
+                    "url": "https:\/\/videa.hu\/player?v=LHnGgCT8q1fzTBqI",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1142",
+                    "url": "https:\/\/voe.sx\/e\/edkqbbp5txd6",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1143",
+                    "url": "https:\/\/uqload.is\/e\/hyso6vsna39g",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1144",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240358&hash=2dfc2ffb18c19d7b&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1145",
+                    "url": "https:\/\/mp4upload.com\/embed-5udxrvwgmyxz.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1146",
+                    "url": "https:\/\/rubyvidhub.com\/embed-mdg4n1fvq2dg.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1147",
+                    "url": "https:\/\/mp4upload.com\/embed-w30rf857tyyb.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1148",
+                    "url": "https:\/\/mp4upload.com\/embed-icy0w9e9zvk9.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "118",
+            "anime_name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "episode_number": "الحلقة 5",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:02:27",
+            "servers": [
+                {
+                    "server_id": "1127",
+                    "url": "https:\/\/share4max.com\/iframe\/TTNOCQiSieISX",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1128",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/62856\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1129",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/62856\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1130",
+                    "url": "https:\/\/videa.hu\/player?v=WKMtag7EpCxISIwo",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1131",
+                    "url": "https:\/\/voe.sx\/e\/gyjil97zfyyr",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1132",
+                    "url": "https:\/\/uqload.is\/e\/d\/h2mwspyqx6x2",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1133",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240354&hash=0e10d7f64504ce9d&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1134",
+                    "url": "https:\/\/mp4upload.com\/embed-e3nc7ot8kdi1.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1135",
+                    "url": "https:\/\/rubyvidhub.com\/embed-2ty42iufzw5u.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1136",
+                    "url": "https:\/\/mp4upload.com\/embed-f2eyq1qbig23.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1137",
+                    "url": "https:\/\/mp4upload.com\/embed-rg0xbkfux4kj.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "117",
+            "anime_name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "episode_number": "الحلقة 6",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:02:26",
+            "servers": [
+                {
+                    "server_id": "1115",
+                    "url": "https:\/\/share4max.com\/iframe\/WlUyJd1ri6rPq",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1116",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/62856\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1117",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/62856\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1118",
+                    "url": "https:\/\/videa.hu\/player?v=0UnIJqtJjpBB7jm1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1119",
+                    "url": "https:\/\/voe.sx\/e\/hgxwhwbfsik8",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1120",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240416&hash=23fd10a7a9bd4f94&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1121",
+                    "url": "https:\/\/uqload.is\/e\/n8bdsp23hexn",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1122",
+                    "url": "https:\/\/playmogo.com\/e\/yjjdzqivfvfm",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1123",
+                    "url": "https:\/\/mp4upload.com\/embed-4r1t6gb8nfdf.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1124",
+                    "url": "https:\/\/rubyvidhub.com\/embed-q3b9qvyw0sgx.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1125",
+                    "url": "https:\/\/mp4upload.com\/embed-0u6nq3i0sb4z.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1126",
+                    "url": "https:\/\/mp4upload.com\/embed-w2nqrnc37788.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "150",
+            "anime_name": "Tetsunabe no Jan!",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:07:32",
+            "servers": [
+                {
+                    "server_id": "1415",
+                    "url": "https:\/\/share4max.com\/iframe\/a6NMMlZbvv64Y",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1416",
+                    "url": "https:\/\/videa.hu\/player?v=xEEKLzyAsDFIdIdY",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1417",
+                    "url": "https:\/\/voe.sx\/e\/gugsiemlkuej",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1418",
+                    "url": "https:\/\/playmogo.com\/e\/7erttk8oi9hb",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1419",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240117&hash=46c7895e0b6b3658&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1420",
+                    "url": "https:\/\/mp4upload.com\/embed-1ptvh1sbvfi6.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1421",
+                    "url": "https:\/\/rubyvidhub.com\/embed-0o1soyaip0db.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1422",
+                    "url": "https:\/\/mp4upload.com\/embed-klut2buf1jgc.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1423",
+                    "url": "https:\/\/mp4upload.com\/embed-cb0uu9c12xi5.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "149",
+            "anime_name": "Tetsunabe no Jan!",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:07:30",
+            "servers": [
+                {
+                    "server_id": "1406",
+                    "url": "https:\/\/share4max.com\/iframe\/AYZacItjNbD5F",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1407",
+                    "url": "https:\/\/videa.hu\/player?v=HaU3Uzjse8UjCcyQ",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1408",
+                    "url": "https:\/\/voe.sx\/e\/svturjtympfj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1409",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240854&hash=e45b04e97779c32e&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1410",
+                    "url": "https:\/\/playmogo.com\/e\/ljqnhciu3zqb",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1411",
+                    "url": "https:\/\/mp4upload.com\/embed-0ywoqscosenn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1412",
+                    "url": "https:\/\/rubyvidhub.com\/embed-nuzjk1jg1o41.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1413",
+                    "url": "https:\/\/mp4upload.com\/embed-6p5jkkbnz2fe.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1414",
+                    "url": "https:\/\/mp4upload.com\/embed-k0rumn1u1w7y.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "148",
+            "anime_name": "Tetsunabe no Jan!",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:07:29",
+            "servers": [
+                {
+                    "server_id": "1397",
+                    "url": "https:\/\/share4max.com\/iframe\/Ki5wgDeuLfoso",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1398",
+                    "url": "https:\/\/videa.hu\/player?v=hfpkclZoYdsTElmi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1399",
+                    "url": "https:\/\/voe.sx\/e\/qj1vxl2ib64z",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1400",
+                    "url": "https:\/\/playmogo.com\/e\/6pwqgq6scelo",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1401",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240201&hash=c02d9ff7287bbfb2&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1402",
+                    "url": "https:\/\/mp4upload.com\/embed-8pptd4smw7hq.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1403",
+                    "url": "https:\/\/rubyvidhub.com\/embed-17k7kz7v0hm9.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1404",
+                    "url": "https:\/\/mp4upload.com\/embed-a6bml5k8pkbg.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1405",
+                    "url": "https:\/\/mp4upload.com\/embed-2ox6p6jpe0g8.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "147",
+            "anime_name": "Tetsunabe no Jan!",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:07:27",
+            "servers": [
+                {
+                    "server_id": "1388",
+                    "url": "https:\/\/share4max.com\/iframe\/2FHmAz29p05V1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1389",
+                    "url": "https:\/\/videa.hu\/player?v=r4zD56bOoVsnR5Ex",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1390",
+                    "url": "https:\/\/voe.sx\/e\/zj2fi4v56prj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1391",
+                    "url": "https:\/\/playmogo.com\/e\/rvtoslzunu6a",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1392",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240274&hash=aca4b69b6ae1a205&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1393",
+                    "url": "https:\/\/mp4upload.com\/embed-so1bff7h9gmb.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1394",
+                    "url": "https:\/\/rubyvidhub.com\/embed-az64566ziquu.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1395",
+                    "url": "https:\/\/mp4upload.com\/embed-weun8u7f4d1u.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1396",
+                    "url": "https:\/\/mp4upload.com\/embed-9oatpdxo5552.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "146",
+            "anime_name": "Tetsunabe no Jan!",
+            "episode_number": "الحلقة 5",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:07:25",
+            "servers": [
+                {
+                    "server_id": "1377",
+                    "url": "https:\/\/share4max.com\/iframe\/vNeO7wAQsxxfH",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1378",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/63100\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1379",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/63100\/5\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1380",
+                    "url": "https:\/\/videa.hu\/player?v=X6WVOW4qKNn15Sch",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1381",
+                    "url": "https:\/\/voe.sx\/e\/zebcfqee13k3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1382",
+                    "url": "https:\/\/uqload.is\/e\/4h1ibpir8efa",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1383",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240349&hash=6e400fb8be29855f&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1384",
+                    "url": "https:\/\/mp4upload.com\/embed-xffuuedvg48n.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1385",
+                    "url": "https:\/\/rubyvidhub.com\/embed-4jretn8t3ovq.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1386",
+                    "url": "https:\/\/mp4upload.com\/embed-mhesjmvu9yco.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1387",
+                    "url": "https:\/\/mp4upload.com\/embed-kzts4ko3tbhk.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "145",
+            "anime_name": "Tetsunabe no Jan!",
+            "episode_number": "الحلقة 6",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:07:24",
+            "servers": [
+                {
+                    "server_id": "1366",
+                    "url": "https:\/\/share4max.com\/iframe\/2RqHUHip47pxv",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1367",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/63100\/6\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1368",
+                    "url": "https:\/\/videa.hu\/player?v=vaqvJzgA5jIyP5yv",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1369",
+                    "url": "https:\/\/voe.sx\/e\/ccaqervkw1ka",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1370",
+                    "url": "https:\/\/uqload.is\/e\/x3wzw0wggien",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1371",
+                    "url": "https:\/\/playmogo.com\/e\/u550qef2jb69",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1372",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240408&hash=a5a338db156122e5&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1373",
+                    "url": "https:\/\/mp4upload.com\/embed-82zlpz6y45wk.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1374",
+                    "url": "https:\/\/rubyvidhub.com\/embed-r1a4vjw5mo5z.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1375",
+                    "url": "https:\/\/mp4upload.com\/embed-vq55xv50xgye.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1376",
+                    "url": "https:\/\/mp4upload.com\/embed-cq5j469v1ut1.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "144",
+            "anime_name": "Tetsunabe no Jan!",
+            "episode_number": "الحلقة 7",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:07:22",
+            "servers": [
+                {
+                    "server_id": "1358",
+                    "url": "https:\/\/share4max.com\/iframe\/QhOXM17ycKiLx",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1359",
+                    "url": "https:\/\/voe.sx\/e\/vn8gl85jptdv",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1360",
+                    "url": "https:\/\/playmogo.com\/e\/aol06zhu4ln5",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1361",
+                    "url": "https:\/\/uqload.is\/e\/qweqdi4p6cuf",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1362",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-240880334&id=456239022&hash=4845cfc5629abced&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1363",
+                    "url": "https:\/\/mp4upload.com\/embed-wychwa50xodj.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1364",
+                    "url": "https:\/\/mp4upload.com\/embed-97paflx6l3h1.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1365",
+                    "url": "https:\/\/mp4upload.com\/embed-z4og8pgv6u1e.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "141",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 1",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1\/",
+            "scraped_at": "2026-08-16 17:04:05",
+            "servers": [
+                {
+                    "server_id": "1326",
+                    "url": "https:\/\/share4max.com\/iframe\/vxCvIEtAF05Yv",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1327",
+                    "url": "https:\/\/videa.hu\/player?v=uNDV9wv8Mf3VEdP6",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1328",
+                    "url": "https:\/\/voe.sx\/e\/vbrmlaeksfhx",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1329",
+                    "url": "https:\/\/playmogo.com\/e\/sfmtejkur70w",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1330",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240699&hd=3&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1331",
+                    "url": "https:\/\/mp4upload.com\/embed-iu24um92y3nf.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1332",
+                    "url": "https:\/\/mp4upload.com\/embed-xz5im6reca03.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1333",
+                    "url": "https:\/\/mp4upload.com\/embed-lfvs224wz1m8.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "140",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 2",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:04:04",
+            "servers": [
+                {
+                    "server_id": "1317",
+                    "url": "https:\/\/share4max.com\/iframe\/C8YqpkXm60j7a",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1318",
+                    "url": "https:\/\/videa.hu\/player?v=EZZP73ymR3fEZ4Er",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1319",
+                    "url": "https:\/\/voe.sx\/e\/zco84knxnijj",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1320",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456239848&hash=436ceb7ddf3414b3&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1321",
+                    "url": "https:\/\/uqload.is\/e\/nk8w6bjceov2",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1322",
+                    "url": "https:\/\/playmogo.com\/e\/kdy6w52p6pii",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1323",
+                    "url": "https:\/\/mp4upload.com\/embed-i9kcxfo3zlbr.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1324",
+                    "url": "https:\/\/mp4upload.com\/embed-1nrugp5vlcwn.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1325",
+                    "url": "https:\/\/mp4upload.com\/embed-v9m91ss7ix2b.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "139",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 3",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:04:02",
+            "servers": [
+                {
+                    "server_id": "1309",
+                    "url": "https:\/\/share4max.com\/iframe\/ty165nZa8tI12",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1310",
+                    "url": "https:\/\/videa.hu\/player?v=OIICRvlfQfSKo61N",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1311",
+                    "url": "https:\/\/voe.sx\/e\/dxhrzkpcdyuv",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1312",
+                    "url": "https:\/\/playmogo.com\/e\/b9v9jd2us09j",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1313",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456239875&hash=0433933ab545f5ca&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1314",
+                    "url": "https:\/\/mp4upload.com\/embed-egfurqsowd4t.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1315",
+                    "url": "https:\/\/mp4upload.com\/embed-mvu1qaagsfon.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1316",
+                    "url": "https:\/\/mp4upload.com\/embed-4nk0x3v4z0oy.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "138",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 4",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:04:01",
+            "servers": [
+                {
+                    "server_id": "1303",
+                    "url": "https:\/\/share4max.com\/iframe\/OsukvzOZhsZkT",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1304",
+                    "url": "https:\/\/voe.sx\/e\/xgujj0j8o79o",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1305",
+                    "url": "https:\/\/playmogo.com\/e\/m9xejs71tdqr",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1306",
+                    "url": "https:\/\/mp4upload.com\/embed-3cv6ze56cisk.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1307",
+                    "url": "https:\/\/mp4upload.com\/embed-dk0u9dfrfw2y.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1308",
+                    "url": "https:\/\/mp4upload.com\/embed-afv6byl7k9qv.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "137",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 5",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:59",
+            "servers": [
+                {
+                    "server_id": "1297",
+                    "url": "https:\/\/share4max.com\/iframe\/liwFTN90AXl89",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1298",
+                    "url": "https:\/\/voe.sx\/e\/i6ajsdawmpz0",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1299",
+                    "url": "https:\/\/playmogo.com\/e\/e395b8ulwhw7",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1300",
+                    "url": "https:\/\/mp4upload.com\/embed-jaaifpj2tezg.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1301",
+                    "url": "https:\/\/mp4upload.com\/embed-azpsm3n7v44t.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1302",
+                    "url": "https:\/\/mp4upload.com\/embed-u635si8oqewo.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "136",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 6",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:58",
+            "servers": [
+                {
+                    "server_id": "1291",
+                    "url": "https:\/\/share4max.com\/iframe\/U8hLpax55KoRM",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1292",
+                    "url": "https:\/\/voe.sx\/e\/qtjjfnzulazk",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1293",
+                    "url": "https:\/\/playmogo.com\/e\/lq5kqu03pdku",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1294",
+                    "url": "https:\/\/mp4upload.com\/embed-sr72xlwt1lsy.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1295",
+                    "url": "https:\/\/mp4upload.com\/embed-6hkytmv4cjdf.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1296",
+                    "url": "https:\/\/mp4upload.com\/embed-k5s7ibcxd5cx.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "135",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 7",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:56",
+            "servers": [
+                {
+                    "server_id": "1284",
+                    "url": "https:\/\/share4max.com\/iframe\/ARwYd0EGr49BA",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1285",
+                    "url": "https:\/\/voe.sx\/e\/q9alu1fgosc5",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1286",
+                    "url": "https:\/\/playmogo.com\/e\/i0x542jt5el0",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1287",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240769&hash=73ef95dc9babf0fd&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1288",
+                    "url": "https:\/\/mp4upload.com\/embed-b2ayhx3vp1kg.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1289",
+                    "url": "https:\/\/mp4upload.com\/embed-8c8gw9ajzodb.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1290",
+                    "url": "https:\/\/mp4upload.com\/embed-hc2hox2xijdb.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "134",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 8",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:54",
+            "servers": [
+                {
+                    "server_id": "1276",
+                    "url": "https:\/\/share4max.com\/iframe\/fZtJBbdLPve74",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1277",
+                    "url": "https:\/\/videa.hu\/player?v=TUCRgSux4ssPEopB",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1278",
+                    "url": "https:\/\/voe.sx\/e\/tanrs5fqbrey",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1279",
+                    "url": "https:\/\/playmogo.com\/e\/z1706q3ks2ss",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1280",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240030&hash=16b5a950399f1919&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1281",
+                    "url": "https:\/\/mp4upload.com\/embed-khais8pfsw91.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1282",
+                    "url": "https:\/\/mp4upload.com\/embed-qehfm0vihqri.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1283",
+                    "url": "https:\/\/mp4upload.com\/embed-iau0tfeqvugj.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "133",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 9",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:53",
+            "servers": [
+                {
+                    "server_id": "1268",
+                    "url": "https:\/\/share4max.com\/iframe\/EsqphwSkFQ4EU",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1269",
+                    "url": "https:\/\/videa.hu\/player?v=igjtVBlrp7bGJYyi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1270",
+                    "url": "https:\/\/voe.sx\/e\/h02wv5w69vyt",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1271",
+                    "url": "https:\/\/playmogo.com\/e\/qpuvz4kno9gw",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1272",
+                    "url": "https:\/\/mp4upload.com\/embed-ggklpkxobpai.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1273",
+                    "url": "https:\/\/rubyvidhub.com\/embed-hucqejtobdt7.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1274",
+                    "url": "https:\/\/mp4upload.com\/embed-714i87mbuos3.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1275",
+                    "url": "https:\/\/mp4upload.com\/embed-j6o0idjh1cx4.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "132",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 10",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:52",
+            "servers": [
+                {
+                    "server_id": "1260",
+                    "url": "https:\/\/share4max.com\/iframe\/G0owHYqJ7YzQM",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1261",
+                    "url": "https:\/\/videa.hu\/player?v=az84pmDCddTNRfeO",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1262",
+                    "url": "https:\/\/voe.sx\/e\/4nax65epkwhd",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1263",
+                    "url": "https:\/\/playmogo.com\/e\/xbygef805a5j",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1264",
+                    "url": "https:\/\/mp4upload.com\/embed-83zc2eui29m7.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1265",
+                    "url": "https:\/\/rubyvidhub.com\/embed-8qzbroexfkmv.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1266",
+                    "url": "https:\/\/mp4upload.com\/embed-9x5gj72x202u.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1267",
+                    "url": "https:\/\/mp4upload.com\/embed-wynaw04e3g87.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "131",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 11",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:50",
+            "servers": [
+                {
+                    "server_id": "1252",
+                    "url": "https:\/\/share4max.com\/iframe\/zye9nK1Q5AOOI",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1253",
+                    "url": "https:\/\/videa.hu\/player?v=aVzofrex0nW7pL4w",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1254",
+                    "url": "https:\/\/voe.sx\/e\/f5rkw3igwwl9",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1255",
+                    "url": "https:\/\/playmogo.com\/e\/e837r0lgrgxi",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1256",
+                    "url": "https:\/\/mp4upload.com\/embed-pc93phmw94bi.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1257",
+                    "url": "https:\/\/rubyvidhub.com\/embed-neqcjgr9bdzy.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1258",
+                    "url": "https:\/\/mp4upload.com\/embed-hv5ijy7j0ace.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1259",
+                    "url": "https:\/\/mp4upload.com\/embed-aop6nfd0intg.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "130",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 12",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:49",
+            "servers": [
+                {
+                    "server_id": "1244",
+                    "url": "https:\/\/share4max.com\/iframe\/IA2k18BPziuAC",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1245",
+                    "url": "https:\/\/videa.hu\/player?v=rn8hWr5P7bHaLpoA",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1246",
+                    "url": "https:\/\/voe.sx\/e\/58csnenhnd0s",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1247",
+                    "url": "https:\/\/playmogo.com\/e\/0j0fqnssk14h",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1248",
+                    "url": "https:\/\/mp4upload.com\/embed-ialwh8d7xqr3.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1249",
+                    "url": "https:\/\/rubyvidhub.com\/embed-385folmorvbk.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1250",
+                    "url": "https:\/\/mp4upload.com\/embed-se8bn9u72dky.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1251",
+                    "url": "https:\/\/mp4upload.com\/embed-lunn5j9kx4vu.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "129",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 13",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-13-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:48",
+            "servers": [
+                {
+                    "server_id": "1235",
+                    "url": "https:\/\/share4max.com\/iframe\/nOGBbxKRyYmTK",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1236",
+                    "url": "https:\/\/videa.hu\/player?v=opbByhKvKcsXij5H",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1237",
+                    "url": "https:\/\/voe.sx\/e\/vghjxnr7nsg1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1238",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240114&hash=1c6e5cfacdccd4db&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1239",
+                    "url": "https:\/\/playmogo.com\/e\/dn0msgz02trn",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1240",
+                    "url": "https:\/\/mp4upload.com\/embed-uslwqkghx0oy.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1241",
+                    "url": "https:\/\/rubyvidhub.com\/embed-ksel6sfeykbq.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1242",
+                    "url": "https:\/\/mp4upload.com\/embed-iqfzyn6uzjo6.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1243",
+                    "url": "https:\/\/mp4upload.com\/embed-r432gb08d0n8.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "128",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 14",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-14-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:47",
+            "servers": [
+                {
+                    "server_id": "1226",
+                    "url": "https:\/\/share4max.com\/iframe\/vWXAnzZF4eb3o",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1227",
+                    "url": "https:\/\/videa.hu\/player?v=mFhNTnke97WyiWec",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1228",
+                    "url": "https:\/\/voe.sx\/e\/iitt0kryjs0f",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1229",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240845&hash=eaec594614035c73&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1230",
+                    "url": "https:\/\/playmogo.com\/e\/6yakp8h2v77c",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1231",
+                    "url": "https:\/\/mp4upload.com\/embed-sdvqkmw74m75.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1232",
+                    "url": "https:\/\/rubyvidhub.com\/embed-0l7u4fmggy7g.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1233",
+                    "url": "https:\/\/mp4upload.com\/embed-nvj0kcwwoa5o.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1234",
+                    "url": "https:\/\/mp4upload.com\/embed-mr8acbf22iol.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "127",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 15",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:45",
+            "servers": [
+                {
+                    "server_id": "1217",
+                    "url": "https:\/\/share4max.com\/iframe\/Hh9Rwi6AyupsS",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1218",
+                    "url": "https:\/\/videa.hu\/player?v=vqEgAttWvemzef5D",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1219",
+                    "url": "https:\/\/voe.sx\/e\/ymx3a0gft7s5",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1220",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240188&hash=e8bedc957d0186d9&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1221",
+                    "url": "https:\/\/playmogo.com\/e\/gbnowioxyxpw",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1222",
+                    "url": "https:\/\/mp4upload.com\/embed-2ah4u5jnnutx.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1223",
+                    "url": "https:\/\/rubyvidhub.com\/embed-n5ahiuj4befu.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1224",
+                    "url": "https:\/\/mp4upload.com\/embed-vcogdpx8o3ta.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1225",
+                    "url": "https:\/\/mp4upload.com\/embed-bblq3bu3segu.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "126",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 16",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-16-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:44",
+            "servers": [
+                {
+                    "server_id": "1207",
+                    "url": "https:\/\/share4max.com\/iframe\/SI1ArH6nU56uu",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1208",
+                    "url": "https:\/\/videa.hu\/player?v=k5rKzf5vbtNlpbtQ",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1209",
+                    "url": "https:\/\/voe.sx\/e\/ncdkxgpcushe",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1210",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240264&hash=3a4ef70bfccc05e8&hd=3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1211",
+                    "url": "https:\/\/uqload.is\/d\/e2qlbqt11vp8",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1212",
+                    "url": "https:\/\/playmogo.com\/e\/hnsj97u3di87",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1213",
+                    "url": "https:\/\/mp4upload.com\/embed-vydlci429p74.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1214",
+                    "url": "https:\/\/rubyvidhub.com\/embed-1hgzt5uhifk9.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1215",
+                    "url": "https:\/\/mp4upload.com\/embed-bz2zoya7mvx0.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1216",
+                    "url": "https:\/\/mp4upload.com\/embed-2bzgvtdu246s.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "125",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 17",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-17-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:42",
+            "servers": [
+                {
+                    "server_id": "1196",
+                    "url": "https:\/\/share4max.com\/iframe\/D73id2sEOH0AF",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1197",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/62001\/17\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1198",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/62001\/17\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1199",
+                    "url": "https:\/\/voe.sx\/e\/ihkinuysib7q",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1200",
+                    "url": "https:\/\/uqload.is\/e\/jzwfbdmudepn",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1201",
+                    "url": "https:\/\/playmogo.com\/e\/8aplbddelcq9",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1202",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240339&hash=077971c239d76bd6&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1203",
+                    "url": "https:\/\/mp4upload.com\/embed-7sp7yn0kogiw.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1204",
+                    "url": "https:\/\/rubyvidhub.com\/embed-e5570g770ul2.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1205",
+                    "url": "https:\/\/mp4upload.com\/embed-t709dppwdjhx.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1206",
+                    "url": "https:\/\/mp4upload.com\/embed-nt852gc81zko.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "124",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 18",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:41",
+            "servers": [
+                {
+                    "server_id": "1184",
+                    "url": "https:\/\/share4max.com\/iframe\/rosmUEaJm4bnK",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1185",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/62001\/18\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1186",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/62001\/18\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1187",
+                    "url": "https:\/\/videa.hu\/player?v=pCmd06MubqybQh2l",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1188",
+                    "url": "https:\/\/voe.sx\/e\/ahpzvemshs7k",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1189",
+                    "url": "https:\/\/uqload.is\/e\/u6ownx9ub0g4",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1190",
+                    "url": "https:\/\/playmogo.com\/e\/4mymdds3rb2q",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1191",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240872&hash=b33a3d4a687772a0&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1192",
+                    "url": "https:\/\/mp4upload.com\/embed-w3zarvb3789k.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1193",
+                    "url": "https:\/\/rubyvidhub.com\/embed-s97c7f2qal8u.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1194",
+                    "url": "https:\/\/mp4upload.com\/embed-6hsc31rqlxtp.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1195",
+                    "url": "https:\/\/mp4upload.com\/embed-1p76wtlbmn25.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        },
+        {
+            "episode_id": "123",
+            "anime_name": "Yomi no Tsugai",
+            "episode_number": "الحلقة 19",
+            "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
+            "scraped_at": "2026-08-16 17:03:40",
+            "servers": [
+                {
+                    "server_id": "1174",
+                    "url": "https:\/\/share4max.com\/iframe\/f45E2TZzvEGT3",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1175",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/62001\/19\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1176",
+                    "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/62001\/19\/sub\/",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1177",
+                    "url": "https:\/\/voe.sx\/e\/rcjbddjbqhfc",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1178",
+                    "url": "https:\/\/uqload.is\/e\/hvzvqvij1snt",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1179",
+                    "url": "https:\/\/playmogo.com\/e\/modglylj0n2q",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1180",
+                    "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240478&hash=831cc7492f58c952&hd=4&autoplay=1",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1181",
+                    "url": "https:\/\/mp4upload.com\/embed-7rd6yo80d4n9.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1182",
+                    "url": "https:\/\/mp4upload.com\/embed-n38myj93d2sy.html",
+                    "name": "Server - FHD"
+                },
+                {
+                    "server_id": "1183",
+                    "url": "https:\/\/mp4upload.com\/embed-6pgpliyd8r9z.html",
+                    "name": "Server - FHD"
+                }
+            ]
+        }
+    ]
+}
