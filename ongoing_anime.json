@@ -1,7 +1,7 @@
 {
     "success": true,
-    "count": 1,
-    "exported_at": "2026-08-16 00:03:56",
+    "count": 9,
+    "exported_at": "2026-08-16 18:33:48",
     "data": [
         {
             "name": "Black Torch",
@@ -13,436 +13,148 @@
             "genre": "",
             "status": "current",
             "rating": "739.8",
-            "airing_status": "يعرض الان",
+            "airing_status": "مستمر",
             "total_episodes": "12",
             "trailer_id": "2clp09dITKY",
             "trailer_url": "https:\/\/www.youtube.com\/watch?v=2clp09dITKY",
             "trailer_thumbnail": "https:\/\/img.youtube.com\/vi\/2clp09dITKY\/hqdefault.jpg",
-            "characters": [],
-            "episode_count": 7,
-            "episodes": [
-                {
-                    "episode_id": "99",
-                    "episode_number": "الحلقة 1",
-                    "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
-                    "scraped_at": "2026-08-15 21:21:13",
-                    "servers": [
-                        {
-                            "server_id": "938",
-                            "url": "https:\/\/share4max.com\/iframe\/jgIYw9elMzkHi",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "939",
-                            "url": "https:\/\/videa.hu\/player?v=X79uBEj7qCLuolIl",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "940",
-                            "url": "https:\/\/voe.sx\/e\/g1rz8hqpmcfj",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "941",
-                            "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240105&hash=342a151389d8ae03&hd=3",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "942",
-                            "url": "https:\/\/uqload.is\/e\/o7ktcqzr0oij",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "943",
-                            "url": "https:\/\/playmogo.com\/e\/sdc9wdsiijc6",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "944",
-                            "url": "https:\/\/mp4upload.com\/embed-yh069jloswpr.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "945",
-                            "url": "https:\/\/rubyvidhub.com\/embed-aqn90j6dd4iu.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "946",
-                            "url": "https:\/\/mp4upload.com\/embed-xh6mq8qaz9c3.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "947",
-                            "url": "https:\/\/mp4upload.com\/embed-zz6n8gktzfv2.html",
-                            "name": "Server - FHD"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "98",
-                    "episode_number": "الحلقة 2",
-                    "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
-                    "scraped_at": "2026-08-15 21:21:12",
-                    "servers": [
-                        {
-                            "server_id": "928",
-                            "url": "https:\/\/share4max.com\/iframe\/uWrMpWkiMK3zL",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "929",
-                            "url": "https:\/\/videa.hu\/player?v=n7fbarekSrzPBAJ9",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "930",
-                            "url": "https:\/\/voe.sx\/e\/nxxx5indsp5s",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "931",
-                            "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240840&hash=ec5d5e57139e871c&hd=3",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "932",
-                            "url": "https:\/\/uqload.is\/e\/vqy0wh1wbvsj",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "933",
-                            "url": "https:\/\/playmogo.com\/e\/u4cxbrcahy8g",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "934",
-                            "url": "https:\/\/mp4upload.com\/embed-5xvuhep6alqn.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "935",
-                            "url": "https:\/\/rubyvidhub.com\/embed-3mpskj9gaiu2.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "936",
-                            "url": "https:\/\/mp4upload.com\/embed-1sssggjsnd5y.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "937",
-                            "url": "https:\/\/mp4upload.com\/embed-6jf46qkvb4b1.html",
-                            "name": "Server - FHD"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "97",
-                    "episode_number": "الحلقة 3",
-                    "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
-                    "scraped_at": "2026-08-15 21:21:08",
-                    "servers": [
-                        {
-                            "server_id": "919",
-                            "url": "https:\/\/share4max.com\/iframe\/N6SNIXV4sJH6A",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "920",
-                            "url": "https:\/\/videa.hu\/player?v=SpUFitSqf9TEVRFL",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "921",
-                            "url": "https:\/\/voe.sx\/e\/gloywgxcdsru",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "922",
-                            "url": "https:\/\/playmogo.com\/e\/u6uaw8lssoft",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "923",
-                            "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240184&hash=3961a531f43045dc&hd=4&autoplay=1",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "924",
-                            "url": "https:\/\/mp4upload.com\/embed-obypfvdwgqvx.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "925",
-                            "url": "https:\/\/rubyvidhub.com\/embed-jja565mn6hvp.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "926",
-                            "url": "https:\/\/mp4upload.com\/embed-lnn6cmy8l5rf.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "927",
-                            "url": "https:\/\/mp4upload.com\/embed-1rg9q0ka0pcd.html",
-                            "name": "Server - FHD"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "96",
-                    "episode_number": "الحلقة 4",
-                    "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-4-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
-                    "scraped_at": "2026-08-15 21:21:04",
-                    "servers": [
-                        {
-                            "server_id": "909",
-                            "url": "https:\/\/share4max.com\/iframe\/hy6yaWKjUzKI1",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "910",
-                            "url": "https:\/\/videa.hu\/player?v=nRZDajrOFTYs6b8W",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "911",
-                            "url": "https:\/\/voe.sx\/e\/8jy0oy5xne0q",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "912",
-                            "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240259&hash=259ac1260da1d85a&hd=3",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "913",
-                            "url": "https:\/\/uqload.is\/e\/44lakaai0boy",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "914",
-                            "url": "https:\/\/playmogo.com\/e\/aoqfoltb4qxi",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "915",
-                            "url": "https:\/\/mp4upload.com\/embed-de58whj67b9n.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "916",
-                            "url": "https:\/\/rubyvidhub.com\/embed-6tyhh0kyagfp.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "917",
-                            "url": "https:\/\/mp4upload.com\/embed-9rgbjs9rx5h6.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "918",
-                            "url": "https:\/\/mp4upload.com\/embed-uqwn4yfvk2l4.html",
-                            "name": "Server - FHD"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "95",
-                    "episode_number": "الحلقة 5",
-                    "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
-                    "scraped_at": "2026-08-15 21:20:58",
-                    "servers": [
-                        {
-                            "server_id": "897",
-                            "url": "https:\/\/share4max.com\/iframe\/IWGoIeeBGCbUY",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "898",
-                            "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S1\/mal\/61169\/5\/sub\/",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "899",
-                            "url": "https:\/\/4q.p3z7k1c.shop\/Anime4up-S2\/mal\/61169\/5\/sub\/",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "900",
-                            "url": "https:\/\/videa.hu\/player?v=C6yYNpC0EpMUncle",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "901",
-                            "url": "https:\/\/voe.sx\/e\/q6ode6rdpfkg",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "902",
-                            "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240335&hash=1314868769c04e3b&hd=3",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "903",
-                            "url": "https:\/\/uqload.is\/e\/pcvbffktbkww",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "904",
-                            "url": "https:\/\/playmogo.com\/e\/9quf3q9fai8m",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "905",
-                            "url": "https:\/\/mp4upload.com\/embed-6trlxav6efy7.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "906",
-                            "url": "https:\/\/rubyvidhub.com\/embed-dxr828qnomgh.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "907",
-                            "url": "https:\/\/mp4upload.com\/embed-vg64kdwbxj2r.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "908",
-                            "url": "https:\/\/mp4upload.com\/embed-0a5fxxub3rus.html",
-                            "name": "Server - FHD"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "94",
-                    "episode_number": "الحلقة 6",
-                    "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
-                    "scraped_at": "2026-08-15 21:20:55",
-                    "servers": [
-                        {
-                            "server_id": "885",
-                            "url": "https:\/\/share4max.com\/iframe\/Bg3X3MsqFGiSz",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "886",
-                            "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S1\/mal\/61169\/6\/sub\/",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "887",
-                            "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S2\/mal\/61169\/6\/sub\/",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "888",
-                            "url": "https:\/\/videa.hu\/player?v=vtgqAWCn0ir3yl8R",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "889",
-                            "url": "https:\/\/voe.sx\/e\/12hbx5slvv9s",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "890",
-                            "url": "https:\/\/uqload.is\/e\/d\/sdam6zum7nmq",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "891",
-                            "url": "https:\/\/playmogo.com\/e\/riwpkli6c6sx",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "892",
-                            "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230564661&id=456240869&hash=52a3829cb8d34147&hd=4&autoplay=1",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "893",
-                            "url": "https:\/\/mp4upload.com\/embed-7l18e8tkplyc.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "894",
-                            "url": "https:\/\/rubyvidhub.com\/embed-v6hmfeevfjlm.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "895",
-                            "url": "https:\/\/mp4upload.com\/embed-rvst361xb9wl.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "896",
-                            "url": "https:\/\/mp4upload.com\/embed-v5cjbigzixcr.html",
-                            "name": "Server - FHD"
-                        }
-                    ]
-                },
-                {
-                    "episode_id": "93",
-                    "episode_number": "الحلقة 7",
-                    "episode_url": "https:\/\/4q.p3z7k1c.shop\/episode\/%d8%a7%d9%86%d9%85%d9%8a-black-torch-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9\/",
-                    "scraped_at": "2026-08-15 21:20:52",
-                    "servers": [
-                        {
-                            "server_id": "875",
-                            "url": "https:\/\/share4max.com\/iframe\/u8Cx0gzQZrXGm",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "876",
-                            "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S1\/mal\/61169\/7\/sub\/",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "877",
-                            "url": "https:\/\/4p.r9x5n2m.shop\/Anime4up-S2\/mal\/61169\/7\/sub\/",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "878",
-                            "url": "https:\/\/voe.sx\/e\/8i13nhlagyvn",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "879",
-                            "url": "https:\/\/uqload.is\/e\/d\/f7d4kdkat1ol",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "880",
-                            "url": "https:\/\/playmogo.com\/e\/6y9gbi6wp8nk",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "881",
-                            "url": "https:\/\/vkvideo.ru\/video_ext.php?oid=-230608608&id=456240474&hash=a6a01644e7ee686c&hd=4&autoplay=1",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "882",
-                            "url": "https:\/\/mp4upload.com\/embed-ms9hdkbdmwqy.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "883",
-                            "url": "https:\/\/mp4upload.com\/embed-5a1t89nod2e7.html",
-                            "name": "Server - FHD"
-                        },
-                        {
-                            "server_id": "884",
-                            "url": "https:\/\/mp4upload.com\/embed-84s5q03hcmrs.html",
-                            "name": "Server - FHD"
-                        }
-                    ]
-                }
-            ]
+            "characters": []
+        },
+        {
+            "name": "Bleach: Sennen Kessen-hen - Kashin-tan",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/bleach-sennen-kessen-hen-kashin-tan\/",
+            "image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx185874-aU3e6tBT6wwA.jpg",
+            "banner_image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/185874-IdGyh1EBG91I.jpg",
+            "story": "The fourth and final part of BLEACH: Sennen Kessen-hen. \n\nDestruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and Quincies… as the death of the Soul King mirrors the collapse of the Three Worlds, distortions and omens of destruction start to appear in all realms. \n\nFierce battles erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryuu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?\n\n(Source: VIZ Media, edited)",
+            "story_arabic": "الجزء الرابع والأخير من المبيض: Sennen Kessen - hen. \n\nيلوح الدمار في نهاية حرب الدم التي استمرت ألف عام بين حاصدي الأرواح والكويني... حيث يعكس موت ملك الروح انهيار العوالم الثلاثة، تبدأ التشوهات ونذر الدمار في الظهور في جميع العوالم. \n\nاندلعت معارك ضارية في جميع أنحاء نهر فيلت بين فرق حرس البلاط الثلاثة عشر والحرس الملكي. يتعلم إيتشيغو عن نوايا أوريو الحقيقية ويجدد تصميمه على حماية العالم",
+            "genre": "Action, Adventure, Supernatural",
+            "status": "RELEASING",
+            "rating": "88",
+            "airing_status": "مستمر",
+            "total_episodes": "10",
+            "trailer_id": "IJONbpfIlUg",
+            "trailer_url": "https:\/\/www.youtube.com\/watch?v=IJONbpfIlUg",
+            "trailer_thumbnail": "https:\/\/i.ytimg.com\/vi\/IJONbpfIlUg\/hqdefault.jpg",
+            "characters": []
+        },
+        {
+            "name": "Dogulwang: Tomb Raider King",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/dogulwang\/",
+            "image": "https:\/\/media.kitsu.app\/anime\/50480\/poster_image\/large-05f03fa1cf6f346bd685aa30ce21cfb3.jpeg",
+            "banner_image": "",
+            "story": "In the year 2025, mysterious tombs appeared all over the world, each housing an ancient relic granting supernatural abilities. The lucky few who quickly obtained these relics ruled over powerful monopolies. Others came to serve them, such as Jooheon Suh, a “raider” who hid in tombs to steal relics. Betrayed by his employer, Jooheon is left to die but instead finds himself transported 15 years in the past. Armed with years of tough raiding experience and knowledge of what is to come in the world of relics, does Jooheon have what it takes to become the “Tomb Raider King”?\n\n(Source: Yen Press)",
+            "story_arabic": "في عام 2025، ظهرت مقابر غامضة في جميع أنحاء العالم، تضم كل منها بقايا قديمة تمنح قدرات خارقة للطبيعة. حكمت القلة المحظوظة التي حصلت بسرعة على هذه الآثار الاحتكارات القوية. وجاء آخرون لخدمتهم، مثل جوهيون سوه، \"المغير\" الذي اختبأ في المقابر لسرقة الآثار. بعد أن تعرض للخيانة من قبل صاحب العمل، تُرك جوهيون للموت ولكنه بدلاً من ذلك وجد نفسه قد نُقل منذ 15 عامًا. مسلحين بسنوات من الخبرة الصعبة في الغارات ومعرفة ما سيأتي في الحرب العالمية الثانية",
+            "genre": "",
+            "status": "current",
+            "rating": "713.6",
+            "airing_status": "مستمر",
+            "total_episodes": "12",
+            "trailer_id": null,
+            "trailer_url": null,
+            "trailer_thumbnail": null,
+            "characters": []
+        },
+        {
+            "name": "Link Click Season 3 (Shiguang Dailiren III)",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/shiguang-dailiren-iii\/",
+            "image": "https:\/\/media.kitsu.app\/anime\/49889\/poster_image\/large-dd622330d474dced2895fda4241d7b6b.jpeg",
+            "banner_image": "",
+            "story": "Third season of Shiguang Dailiren (Link Click).",
+            "story_arabic": "الموسم الثالث من Shiguang Dailiren (Link Click).",
+            "genre": "",
+            "status": "current",
+            "rating": "0",
+            "airing_status": "مستمر",
+            "total_episodes": "24",
+            "trailer_id": null,
+            "trailer_url": null,
+            "trailer_thumbnail": null,
+            "characters": []
+        },
+        {
+            "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance\/",
+            "image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx185875-XMvDVlIUZODx.jpg",
+            "banner_image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/185875-kHVsTIJKPVRJ.jpg",
+            "story": "Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n\nNote: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
+            "story_arabic": "قبل ثلاثين عامًا، دُمر العالم تقريبًا بسبب الظهور المفاجئ \"للأنواع الغريبة الغازية\" غير المعروفة.\n\nلا يزال البشر وهذه \"الأنواع الغازية\" يتنافسون على مساحة المعيشة، وبينما بالكاد يتم تأمين سلامة البشرية حاليًا، يمكن تدمير العالم في أي لحظة. يعيش الناس في خوف من الموت والدمار، ويمارسون حياتهم اليومية كما لو كانوا يحاولون تجنب أعينهم من الخطر والكوارث.\n\nفي هذا العالم، وكالة الأمم المتحدة للتحقيق في الأنواع الخطرة، \"E",
+            "genre": "Action, Comedy, Drama, Fantasy, Mahou Shoujo",
+            "status": "RELEASING",
+            "rating": "65",
+            "airing_status": "مستمر",
+            "total_episodes": "12",
+            "trailer_id": "4IcEbMCW-FU",
+            "trailer_url": "https:\/\/www.youtube.com\/watch?v=4IcEbMCW-FU",
+            "trailer_thumbnail": "https:\/\/i.ytimg.com\/vi\/4IcEbMCW-FU\/hqdefault.jpg",
+            "characters": []
+        },
+        {
+            "name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/mushoku-tensei-iii-isekai-ittara-honki-dasu\/",
+            "image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx178789-hNXjKFzUq7mk.jpg",
+            "banner_image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/178789-9nHWmoRLlcLu.jpg",
+            "story": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+            "story_arabic": "الموسم الثالث من Mushoku Tensei: Isekai Ittara Honki Dasu.",
+            "genre": "Adventure, Drama, Ecchi, Fantasy",
+            "status": "RELEASING",
+            "rating": "84",
+            "airing_status": "مستمر",
+            "total_episodes": "14",
+            "trailer_id": "ODxfIvSgWuo",
+            "trailer_url": "https:\/\/www.youtube.com\/watch?v=ODxfIvSgWuo",
+            "trailer_thumbnail": "https:\/\/i.ytimg.com\/vi\/ODxfIvSgWuo\/hqdefault.jpg",
+            "characters": []
+        },
+        {
+            "name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/nijusseiki-denki-mokuroku-eureka-evrika\/",
+            "image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx103303-IF43hFJPPv2Y.png",
+            "banner_image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/103303-K73aVOqkCPqL.jpg",
+            "story": "The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. \n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.\n\n(Source: Anime News Network)",
+            "story_arabic": "تدور أحداث الرواية في صيف عام 1907، وهو العام الأربعين من عصر ميجي. تعيش إيناكو موموكاوا البالغة من العمر 15 عامًا في منطقة فوشيمي في كيوتو، وهي الابنة الثانية لصانع الجعة. لا شيء تفعله يخرج بشكل صحيح، وتتلقى توبيخًا من والدها كل يوم. ارتياحها الوحيد هو الثقة التي تضعها في صلواتها للآلهة. في أحد الأيام بينما كانت في ضريح فوشيمي إيناري، قابلت شابًا حرًا يدعى كيهاتشي ساكاموتو. إنه يرفض الآلهة، ويفتخر بالعصر القادم",
+            "genre": "Adventure, Romance",
+            "status": "RELEASING",
+            "rating": "75",
+            "airing_status": "مستمر",
+            "total_episodes": "13",
+            "trailer_id": "-W2vs2etG9o",
+            "trailer_url": "https:\/\/www.youtube.com\/watch?v=-W2vs2etG9o",
+            "trailer_thumbnail": "https:\/\/i.ytimg.com\/vi\/-W2vs2etG9o\/hqdefault.jpg",
+            "characters": []
+        },
+        {
+            "name": "Tetsunabe no Jan!",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/tetsunabe-no-jan\/",
+            "image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx204060-bKhovD8jAlW8.jpg",
+            "banner_image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/204060-3y19sqCToRaN.jpg",
+            "story": "Jan Akiyama, a cocky arrogant teenager wants to fulfill his grandfathers wish of defeating his arch nemesis Mutsuju Gobancho. When he arrives at the Gobancho restaurant he meets his granddaughter Kiriko Gobancho. Their rivalry is easily compared to Jan's and Kiriko's grandfathers, for Jan believes cooking is about competition and Kiriko believes cooking is about heart.",
+            "story_arabic": "يريد جان أكياما، وهو مراهق متعجرف، تحقيق رغبة أجداده في هزيمة عدوه اللدود موتسوجو جوبانشو. عندما يصل إلى مطعم غوبانشو يلتقي بحفيدته كيريكو غوبانشو. يمكن مقارنة تنافسهما بسهولة مع أجداد جان وكيريكو، لأن جان يعتقد أن الطهي يتعلق بالمنافسة وتعتقد كيريكو أن الطهي يتعلق بالقلب.",
+            "genre": "Action, Comedy",
+            "status": "RELEASING",
+            "rating": "70",
+            "airing_status": "مستمر",
+            "total_episodes": "0",
+            "trailer_id": "awvmDnz3URo",
+            "trailer_url": "https:\/\/www.youtube.com\/watch?v=awvmDnz3URo",
+            "trailer_thumbnail": "https:\/\/i.ytimg.com\/vi\/awvmDnz3URo\/hqdefault.jpg",
+            "characters": []
+        },
+        {
+            "name": "Yomi no Tsugai",
+            "url": "https:\/\/4q.p3z7k1c.shop\/anime\/yomi-no-tsugai\/",
+            "image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx195600-moI0UFArtOme.jpg",
+            "banner_image": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/195600-UxHvDXwzJxlP.jpg",
+            "story": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n(Source: Square Enix)",
+            "story_arabic": "في قرية جبلية نائية تحت أعين اثنين من الحراس الحجريين، يعيش الشاب يورو باقتناع خارج الأرض بينما يقيم بالقرب من العائلة الوحيدة التي تركها - آسا، أخته التوأم الثمينة. في هذه الأثناء، ينفذ آسا \"واجبًا\" غامضًا نيابة عن القرية بينما كان محبوسًا في قفص. لماذا عيسى سجين ؟ وما هي الأسرار الأخرى التي يخفيها منزل يورو المثالي ؟\n(المصدر: سكوير إنكس)",
+            "genre": "Action, Adventure, Comedy, Fantasy, Supernatural",
+            "status": "RELEASING",
+            "rating": "78",
+            "airing_status": "مستمر",
+            "total_episodes": "24",
+            "trailer_id": "XCyj9KKKjUI",
+            "trailer_url": "https:\/\/www.youtube.com\/watch?v=XCyj9KKKjUI",
+            "trailer_thumbnail": "https:\/\/i.ytimg.com\/vi\/XCyj9KKKjUI\/hqdefault.jpg",
+            "characters": []
         }
     ]
 }
